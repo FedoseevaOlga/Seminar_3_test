@@ -91,11 +91,11 @@
 
 ### УДАЧИ В ОБУЧЕНИИ!
 
-! [картинка](http://korea365.ru/wp-content/uploads/2013/04/hwaitingfighting_thumb-300x300.jpg)
+! [картинка](http://korea365.ru/wp-content/uploads/2013/04/hwaitingfighting_thumb-300x300.jpg)q
 
 [Здесь можно почитать мотивационную речь одного очень известного человека](https://hochu.ua/cat-razvitie/lichnostnyiy-rost/article-89341-motiviruyuschaya-rech-arnolda-shvartseneggera-kotoruyu-stoit-prochitat-vsem/)
 
-
+*До встречи!*
 
 
 
