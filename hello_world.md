@@ -50,6 +50,24 @@
 
 [Работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
 
+## *Работа со списками*
+
+Для создания нумерованных списков, вводим:
+
+1. Один
+2. Два
+3. Три
+
+Для ненумерованных используем:
+
+*
+*
++
++
+
+При использование разных знаков, расстояние между списками будем отличаться.
+
+
 
 
 
